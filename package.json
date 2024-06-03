@@ -14,9 +14,9 @@
   "contributes": {
     "commands": [
       {
-        "command": "catCoding.start",
-        "title": "Start new cat coding session",
-        "category": "Cat Coding"
+        "command": "yt",
+        "title": "Play a new YouTube Video",
+        "category": "YouTube"
       }
     ]
   },
